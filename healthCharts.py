@@ -24,95 +24,53 @@ Demographic Indicators\tSex ratio (Male to female ratio)\tASHA\tHouse visit + MP
 Demographic Indicators\tAge structure (Percentage of population by age groups)\tASHA\tHouse visit + MPR\tHMIS\tBi Annual (Feb-Mar & Sep-Oct)\t\tHouse Visit happen on Demand
 Demographic Indicators\tDependency ratio (Proportion of the working-age population to dependents)\tASHA\tHouse visit + MPR\t\tBi Annual (Feb-Mar & Sep-Oct)\t\tHouse Visit happen on Demand
 Demographic Indicators\tMigration rate (Internal and external migration)\tASHA\tHouse visit + MPR\t\tBi Annual (Feb-Mar & Sep-Oct)\t\tHouse Visit happen on Demand
-Health and Mortality Indicators\tCause-specific mortality rates (e.g., mortality from communicable diseases, non-communicable diseases, injuries)\tASHA + ANM\tHouse visit + MPR\tHMIS & Births and Deaths\tMonthly \tNCD - BP & Gluco Metre\tHouse Visit happen on Demand
-Health and Mortality Indicators\tPrevalence of major diseases (e.g., tuberculosis, malaria, HIV/AIDS, diabetes)\tASHA + ANM\tHouse visit + MPR\tHMIS \tMonthly \tNCD - BP & Gluco Metre\t"House Visit happen on Demand
-
-Identifying by ASHA and Screening by Lab Tech at HC"
-Health and Mortality Indicators\tIncidence of communicable diseases (e.g., diarrheal diseases, dengue, cholera)\tASHA \tHouse visit + MPR\tHMIS \tMonthly \t\tHouse Visit happen on Demand
-Health and Mortality Indicators\tLife expectancy at age 60 (Healthy life expectancy)\tASHA \tHouse visit + MPR\t\tMonthly \t\tHouse Visit happen on Demand
+Health and Mortality Indicators\tCause-specific mortality rates (e.g., mortality from communicable diseases, non-communicable diseases, injuries)\tASHA + ANM\tHouse visit + MPR\tHMIS & Births and Deaths\tMonthly\tNCD - BP & Gluco Metre\tHouse Visit happen on Demand
+Health and Mortality Indicators\tPrevalence of major diseases (e.g., tuberculosis, malaria, HIV/AIDS, diabetes)\tASHA + ANM\tHouse visit + MPR\tHMIS\tMonthly\tNCD - BP & Gluco Metre\tHouse Visit happen on Demand Identifying by ASHA and Screening by Lab Tech at HC
+Health and Mortality Indicators\tIncidence of communicable diseases (e.g., diarrheal diseases, dengue, cholera)\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Health and Mortality Indicators\tLife expectancy at age 60 (Healthy life expectancy)\tASHA\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand
 Health and Mortality Indicators\tPrevalence of undernutrition (e.g., stunting, wasting)\tANW\t\t\t\t\t
-Health and Mortality Indicators\tChildhood vaccination rates (e.g., BCG, polio, measles)\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Health and Mortality Indicators\tImmunization coverage rate\tASHA \tHouse visit + MPR\tHMIS \tMonthly \t\t"House Visit happen on Demand
-
-Under the supervision of the ANM"
-Health and Mortality Indicators\tDisease-specific burden (DALYs - Disability-Adjusted Life Years)\tASHA \tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand 
-
-Identifying by ASHA and Screening by Lab Tech at HC"
-Health and Mortality Indicators\tPrevalence of non-communicable diseases (NCDs: hypertension, heart disease, cancer)\tASHA \tHouse visit + MPR\tNCD Portal\tMonthly \t\t"House Visit happen on Demand 
-
-Identifying by ASHA and Screening by Lab Tech at HC"
-Health and Mortality Indicators\tPrevalence of mental health disorders\tASHA \tHouse visit + MPR\tDMHP\tMonthly \t\t"House Visit happen on Demand
-
-Identifying by ASHA and Screening by Doctor at SC"
-Reproductive and Maternal Health Indicators\tAntenatal care coverage\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tInstitutional delivery rate\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
+Health and Mortality Indicators\tChildhood vaccination rates (e.g., BCG, polio, measles)\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Health and Mortality Indicators\tImmunization coverage rate\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand Under the supervision of the ANM
+Health and Mortality Indicators\tDisease-specific burden (DALYs - Disability-Adjusted Life Years)\tASHA\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand Identifying by ASHA and Screening by Lab Tech at HC
+Health and Mortality Indicators\tPrevalence of non-communicable diseases (NCDs: hypertension, heart disease, cancer)\tASHA\tHouse visit + MPR\tNCD Portal\tMonthly\t\tHouse Visit happen on Demand Identifying by ASHA and Screening by Lab Tech at HC
+Health and Mortality Indicators\tPrevalence of mental health disorders\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\tHouse Visit happen on Demand Identifying by ASHA and Screening by Doctor at SC
+Reproductive and Maternal Health Indicators\tAntenatal care coverage\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tInstitutional delivery rate\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
 Reproductive and Maternal Health Indicators\tSkilled birth attendance rate\t\t\tHMIS\t\t\tNot done
-Reproductive and Maternal Health Indicators\tPostnatal care coverage\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tPercentage of deliveries with cesarean sections\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tPercentage of adolescent pregnancies\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tFamily planning use rate (contraceptive prevalence rate)\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tTeenage fertility rate\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tPercentage of women receiving iron and folic acid supplementation\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tPercentage of women with anemia\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Reproductive and Maternal Health Indicators\tMaternal morbidity (e.g., eclampsia, hemorrhage)\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tPostnatal care coverage\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tPercentage of deliveries with cesarean sections\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tPercentage of adolescent pregnancies\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tFamily planning use rate (contraceptive prevalence rate)\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tTeenage fertility rate\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tPercentage of women receiving iron and folic acid supplementation\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tPercentage of women with anemia\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Reproductive and Maternal Health Indicators\tMaternal morbidity (e.g., eclampsia, hemorrhage)\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
 Reproductive and Maternal Health Indicators\tAccess to safe abortion services\t\t\tHMIS\t\t\tCollected through ASHA and referred to HC
-Child Health Indicators\tExclusive breastfeeding rate\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Child Health Indicators\tInfant and young child feeding practices\tASHA \tHouse visit + MPR\t\tMonthly \t\tHouse Visit happen on Demand
-Child Health Indicators\tImmunization coverage (e.g., DTP, hepatitis B, MMR)\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Child Health Indicators\tPrevalence of malnutrition (e.g., underweight, stunting, wasting)\tASHA \tHouse visit + MPR\t\tMonthly \t\tHouse Visit happen on Demand
-Child Health Indicators\tVitamin A supplementation rate\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Child Health Indicators\tPrevalence of anemia in children\tASHA \tHouse visit + MPR\t\tMonthly \t\tHouse Visit happen on Demand
-Child Health Indicators\tEarly childhood development indicators\tASHA \tHouse visit + MPR\t\tMonthly \t\tHouse Visit happen on Demand
-Child Health Indicators\tInfant and child vaccination dropout rates\tASHA \tHouse visit + MPR\tHMIS\tMonthly \t\tHouse Visit happen on Demand
-Nutrition Indicators\tUndernutrition (stunting, wasting, underweight)\tASHA + ANW\tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
-Nutrition Indicators\tMicronutrient deficiencies (e.g., Vitamin A, iron, iodine)\tASHA + ANW\tHouse visit + MPR\tHMIS\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
-Nutrition Indicators\tOverweight and obesity prevalence\tASHA + ANW\tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
-Nutrition Indicators\tDietary intake patterns (e.g., fruit, vegetable, and protein consumption)\tASHA + ANW\tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
-Nutrition Indicators\tAccess to clean water and sanitation\tASHA + ANW\tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
-Nutrition Indicators\tHousehold food security\tASHA + ANW\tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
-Nutrition Indicators\tPercentage of households with access to fortified foods\tASHA + ANW\tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
-Nutrition Indicators\tFoodborne diseases\tASHA + ANW\tHouse visit + MPR\t\tMonthly \t\t"House Visit happen on Demand
-
-BMI screening by HC"
+Child Health Indicators\tExclusive breastfeeding rate\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Child Health Indicators\tInfant and young child feeding practices\tASHA\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand
+Child Health Indicators\tImmunization coverage (e.g., DTP, hepatitis B, MMR)\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Child Health Indicators\tPrevalence of malnutrition (e.g., underweight, stunting, wasting)\tASHA\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand
+Child Health Indicators\tVitamin A supplementation rate\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Child Health Indicators\tPrevalence of anemia in children\tASHA\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand
+Child Health Indicators\tEarly childhood development indicators\tASHA\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand
+Child Health Indicators\tInfant and child vaccination dropout rates\tASHA\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand
+Nutrition Indicators\tUndernutrition (stunting, wasting, underweight)\tASHA + ANW\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
+Nutrition Indicators\tMicronutrient deficiencies (e.g., Vitamin A, iron, iodine)\tASHA + ANW\tHouse visit + MPR\tHMIS\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
+Nutrition Indicators\tOverweight and obesity prevalence\tASHA + ANW\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
+Nutrition Indicators\tDietary intake patterns (e.g., fruit, vegetable, and protein consumption)\tASHA + ANW\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
+Nutrition Indicators\tAccess to clean water and sanitation\tASHA + ANW\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
+Nutrition Indicators\tHousehold food security\tASHA + ANW\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
+Nutrition Indicators\tPercentage of households with access to fortified foods\tASHA + ANW\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
+Nutrition Indicators\tFoodborne diseases\tASHA + ANW\tHouse visit + MPR\t\tMonthly\t\tHouse Visit happen on Demand BMI screening by HC
 Environmental Health Indicators\tAir quality index (PM2.5, PM10 levels)\t\t\tState Pollution Control Board\t\t\tNot Done
-Environmental Health Indicators\tAccess to safe drinking water (Percentage of households with access to piped water)\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Environmental Health Indicators\tAccess to sanitation facilities (Percentage of households with toilets)\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Environmental Health Indicators\tWaste management (Waste segregation, disposal, and recycling rates)\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Environmental Health Indicators\tMalaria vector control measures (e.g., bed nets, indoor spraying)\tASHA\tHouse visit + MPR\tDistrict Vector Borne Disease Control Programme\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Environmental Health Indicators\tIndoor air pollution (Use of biomass fuels, solid fuels)\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Environmental Health Indicators\tAccess to clean cooking fuels (LPG, biogas)\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Environmental Health Indicators\tVector-borne diseases prevalence (Dengue, malaria, chikungunya)\tASHA\tHouse visit + MPR\tDistrict Vector Borne Disease Control Programme\tYearly\t\t"House Visit happen on Demand
-
-Referred to HC"
-Environmental Health Indicators\tWaterborne diseases prevalence (e.g., cholera, typhoid)\tASHA\tHouse visit + MPR\tIDSP\tYearly\t\t"House Visit happen on Demand
-
-Referred to HC"
+Environmental Health Indicators\tAccess to safe drinking water (Percentage of households with access to piped water)\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Environmental Health Indicators\tAccess to sanitation facilities (Percentage of households with toilets)\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Environmental Health Indicators\tWaste management (Waste segregation, disposal, and recycling rates)\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Environmental Health Indicators\tMalaria vector control measures (e.g., bed nets, indoor spraying)\tASHA\tHouse visit + MPR\tDistrict Vector Borne Disease Control Programme\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Environmental Health Indicators\tIndoor air pollution (Use of biomass fuels, solid fuels)\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Environmental Health Indicators\tAccess to clean cooking fuels (LPG, biogas)\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Environmental Health Indicators\tVector-borne diseases prevalence (Dengue, malaria, chikungunya)\tASHA\tHouse visit + MPR\tDistrict Vector Borne Disease Control Programme\tYearly\t\tHouse Visit happen on Demand Referred to HC
+Environmental Health Indicators\tWaterborne diseases prevalence (e.g., cholera, typhoid)\tASHA\tHouse visit + MPR\tIDSP\tYearly\t\tHouse Visit happen on Demand Referred to HC
 Environmental Health Indicators\tFloods and natural disaster mortality rates\t\t\tDisaster Mangement\t\t\tNot Done in State
 Environmental Health Indicators\tSoil contamination and pesticide use\t\t\tAgri\t\t\tNot Done in State
 Health Infrastructure and Service Access\tNumber of healthcare facilities (Primary health centers, sub-centers, district hospitals, etc.)\tDMHO\tPhysically Collected\t\tReal Time\t\tCollected at the District Level
@@ -125,27 +83,13 @@ Health Infrastructure and Service Access\tAccess to mental health services\tDMHO
 Health Infrastructure and Service Access\tTelemedicine services usage\tDMHO\tEsaanjeevani\t\tReal Time\t\tCollected at the District Level
 Health Infrastructure and Service Access\tAccess to diagnostic services\tDMHO\tMMDSL\t\tReal Time\t\tCollected at the District Level
 Health Infrastructure and Service Access\tAvailability of emergency medical services (EMS)\tDMHO\tMMDSL\t\tReal Time\t\tCollected at the District Level
-Behavioral and Lifestyle Indicators\tPrevalence of smoking and tobacco use\tASHA\tHouse visit + MPR\tNational Tobacco Control Programme\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Behavioral and Lifestyle Indicators\tAlcohol consumption rates\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Behavioral and Lifestyle Indicators\tPhysical activity levels\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Behavioral and Lifestyle Indicators\tPrevalence of drug abuse (e.g., opioid addiction)\tASHA\tHouse visit + MPR\tDMHP\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Behavioral and Lifestyle Indicators\tPrevalence of high-risk behaviors (e.g., unsafe sexual practices, substance abuse)\tASHA\tHouse visit + MPR\tDMHP - Substance Abuse\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Behavioral and Lifestyle Indicators\tDietary habits (e.g., salt consumption, junk food intake)\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
-Behavioral and Lifestyle Indicators\tMental health and well-being (Depression, anxiety, stress)\tASHA\tHouse visit + MPR\tDMHP\tYearly\t\t"House Visit happen on Demand
-
-Collected through CBAC"
+Behavioral and Lifestyle Indicators\tPrevalence of smoking and tobacco use\tASHA\tHouse visit + MPR\tNational Tobacco Control Programme\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Behavioral and Lifestyle Indicators\tAlcohol consumption rates\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Behavioral and Lifestyle Indicators\tPhysical activity levels\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Behavioral and Lifestyle Indicators\tPrevalence of drug abuse (e.g., opioid addiction)\tASHA\tHouse visit + MPR\tDMHP\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Behavioral and Lifestyle Indicators\tPrevalence of high-risk behaviors (e.g., unsafe sexual practices, substance abuse)\tASHA\tHouse visit + MPR\tDMHP - Substance Abuse\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Behavioral and Lifestyle Indicators\tDietary habits (e.g., salt consumption, junk food intake)\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
+Behavioral and Lifestyle Indicators\tMental health and well-being (Depression, anxiety, stress)\tASHA\tHouse visit + MPR\tDMHP\tYearly\t\tHouse Visit happen on Demand Collected through CBAC
 Social Determinants of Health\tEducation level (Literacy rates, school enrollment rates)\t\t\t\t\t\tEducation Department
 Social Determinants of Health\tEmployment status (Unemployment rate, workforce participation)\t\t\t\t\t\tLabour Department
 Social Determinants of Health\tIncome inequality (e.g., Gini index)\t\t\t\t\t\t
@@ -154,9 +98,7 @@ Social Determinants of Health\tHousing conditions (Overcrowding, slum population
 Social Determinants of Health\tGender inequality (Sex-based disparities in healthcare access)\t\t\tPCPNDT Act\t\t\t
 Social Determinants of Health\tDisability rates (Prevalence of persons with disabilities)\tANW + SRC\t\t\t\t\t
 Social Determinants of Health\tAccess to social services (Welfare programs, public health initiatives)\tANW + SRC\t\t\t\t\t
-Social Determinants of Health\tWater, sanitation, and hygiene (WASH) practices\tASHA\tHouse visit + MPR\t\tYearly\t\t"House Visit happen on Demand
-
-Collected through MAS"
+Social Determinants of Health\tWater, sanitation, and hygiene (WASH) practices\tASHA\tHouse visit + MPR\t\tYearly\t\tHouse Visit happen on Demand Collected through MAS
 Health System Indicators\tHealth insurance coverage rates (Public, private, and universal schemes like Ayushman Bharat)\tHealth Centre (HC)\tMPR\tMHIS\tMonthly\t\t
 Health System Indicators\tHealthcare worker availability and distribution (Doctors, nurses per 1000 population)\tHC\tMPR\tDMHO\tMonthly\t\t
 Health System Indicators\tMedical equipment availability\tHC\tMPR\tMMDSL\tMonthly\t\t
@@ -171,27 +113,13 @@ Health and Disability Surveys\tChronic disease management\tASHA\tHouse visit + M
 HIV/AIDS and Tuberculosis\tHIV prevalence (By population group, regions, etc.)\tASHA\tHouse visit + MPR\tMeghalaya Aids Control Society\tMonthly\t\tHouse Visit happen on Demand
 HIV/AIDS and Tuberculosis\tTuberculosis (TB) incidence rate\tASHA\tHouse visit + MPR\tDistrict TB Office\tMonthly\t\tHouse Visit happen on Demand
 HIV/AIDS and Tuberculosis\tTB treatment success rate\tDistrict Hospital\t\tDistrict TB Office\t\t\t
-HIV/AIDS and Tuberculosis\tHIV treatment coverage and adherence\tASHA\tHouse visit + MPR\tMeghalaya Aids Control Society\tMonthly\t\t"House Visit happen on Demand
-
-Referred to Civil Hospital or Ganesh Das"
-HIV/AIDS and Tuberculosis\tPrevalence of co-morbidities (TB and HIV)\tASHA\tHouse visit + MPR\tDistrict TB + Meghalaya Aids Control Society\tMonthly\t\t"House Visit happen on Demand
-
-Referred to Civil Hospital or Ganesh Das"
-Mental Health Indicators\tPrevalence of mental health disorders\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\t"House Visit happen on Demand
-
-Referred to HC"
-Mental Health Indicators\tAccess to mental health services\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\t"House Visit happen on Demand
-
-Referred to HC"
-Mental Health Indicators\tSuicide rate\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\t"House Visit happen on Demand
-
-Referred to HC"
-Mental Health Indicators\tPsychiatric care facility availability\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\t"House Visit happen on Demand
-
-Referred to HC"
-Mental Health Indicators\tSubstance use disorders\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\t"House Visit happen on Demand
-
-Referred to HC"
+HIV/AIDS and Tuberculosis\tHIV treatment coverage and adherence\tASHA\tHouse visit + MPR\tMeghalaya Aids Control Society\tMonthly\t\tHouse Visit happen on Demand Referred to Civil Hospital or Ganesh Das
+HIV/AIDS and Tuberculosis\tPrevalence of co-morbidities (TB and HIV)\tASHA\tHouse visit + MPR\tDistrict TB + Meghalaya Aids Control Society\tMonthly\t\tHouse Visit happen on Demand Referred to Civil Hospital or Ganesh Das
+Mental Health Indicators\tPrevalence of mental health disorders\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\tHouse Visit happen on Demand Referred to HC
+Mental Health Indicators\tAccess to mental health services\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\tHouse Visit happen on Demand Referred to HC
+Mental Health Indicators\tSuicide rate\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\tHouse Visit happen on Demand Referred to HC
+Mental Health Indicators\tPsychiatric care facility availability\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\tHouse Visit happen on Demand Referred to HC
+Mental Health Indicators\tSubstance use disorders\tASHA\tHouse visit + MPR\tDMHP\tMonthly\t\tHouse Visit happen on Demand Referred to HC
 """
 
     df = parse_data(raw_data)
