@@ -84,7 +84,7 @@ Large-Scale Surveys\tHMIS, Poshan Tracker, Anemia Mukt Bharat\tANW\tPT\tMPR\tMon
         y_col_choice_bar = st.selectbox("Bar Y-axis Column", y_col_options, index=0)
         y_col_choice_line = st.selectbox("Line Y-axis Column", y_col_options, index=0)
 
-    custom_title = st.text_input("Chart Title", value="Custom Nutrition Chart")
+    custom_title = st.text_input("Chart Title", value="Nutrition Chart")
     template_choice = st.selectbox("Chart Template", ["plotly_white", "presentation", "ggplot2", "seaborn"])
     color_seq_choice = st.selectbox(
         "Color Sequence",
