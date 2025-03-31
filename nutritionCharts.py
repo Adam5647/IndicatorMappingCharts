@@ -11,7 +11,7 @@ def show_nutrition_dashboard():
 
     # Hardcoded nutrition data
     raw_data = """Catergory\tIndicator\tcollected by\tprimary collection method\tsecondary collection method\tFrequency\tInstrument Used\tRemark
-Anthropometric Indicators\tHeights\tAnganwadi Worker (ANW)\tPoshan Tracker (PT)\tMonthly Progress Report (MPR)\tMonthly\tGrowth Monitoring Device\t
+Anthropometric Indicators\tHeights\tANW\tPoshan Tracker (PT)\tMonthly Progress Report (MPR)\tMonthly\tGrowth Monitoring Device\t
 Anthropometric Indicators\tWeight\tANW\tPT\tMPR\tMonthly\tGrowth Monitoring Device\t
 Anthropometric Indicators\tBMI\tANW\tPT\tMPR\tMonthly\tReflects through PT Calculator\t
 Anthropometric Indicators\tMid-Upper Arm Circumference\t\t\t\t\t\tNot in use anymore
